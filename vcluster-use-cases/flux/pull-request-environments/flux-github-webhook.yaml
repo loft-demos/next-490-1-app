@@ -4,7 +4,7 @@ metadata:
   name: flux-github-webhook
 spec:
   forProvider:
-    repository: {REPLACE_REPO_NAME}
+    repository: next-490-1-app
     active: true
     configuration:
     - contentType: json
